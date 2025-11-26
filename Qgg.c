@@ -6,11 +6,7 @@
 #define COLS 10
 #define MOVIES 4
 
-// Prices: front(1-3), middle(4-7), back(8-10)
-int getPrice(int rk
-    
-    
-    row) {
+int getPrice(int row) {
     if (row < 3) return 150;   // front
     if (row < 7) return 200;   // middle
     return 250;                // back
@@ -216,3 +212,4 @@ int main() {
 
     return 0;
 }
+
