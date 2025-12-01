@@ -1,0 +1,2 @@
+Name: Rohit | Phone: 29047293494 | Movie: Inception | Row: 2 | Seat: 2 | Price: ₹150
+Name: Rahul kumar | Phone: 9876543210 | Movie: Avengers: Endgame | Row: 5 | Seat: 7 | Price: Rs200
